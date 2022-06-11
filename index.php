@@ -35,9 +35,9 @@ if (isset($_POST['submit'])) {
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style2.css">
 
-	<title>Login Form - Pure Coding</title>
+	<title>Login Form </title>
 </head>
 <body>
 	<div class="container">
@@ -54,6 +54,7 @@ if (isset($_POST['submit'])) {
 			</div>
 			<p class="login-register-text">Don't have an account? <a href="register.php">Register Here</a>.</p>
 		</form>
+
 	</div>
 </body>
 </html>
